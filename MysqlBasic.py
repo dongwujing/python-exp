@@ -1,5 +1,4 @@
 # coding:utf-8 
-import requests
 import json
 import pymysql
 #配置数据库
