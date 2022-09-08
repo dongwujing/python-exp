@@ -31,3 +31,6 @@ def employees():
     
     return render_template('employees.html', result=res, content_type='application/json')
 
+
+if __name__ == '__main__':
+   app.run()
